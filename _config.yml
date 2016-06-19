@@ -9,11 +9,12 @@
 title: cjbcrazy's website
 email: chris@please-dont-email-me.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hobbyist website for content created by cjbcrazy.
+  Hobbyist website for content created by Chris Bentley.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cjbcrazy.com" # the base hostname & protocol for your site
 twitter_username: cjbcrazy
 github_username:  chrisbentley
+steam_username: cjbcrazy
 
 # Build settings
 markdown: kramdown
